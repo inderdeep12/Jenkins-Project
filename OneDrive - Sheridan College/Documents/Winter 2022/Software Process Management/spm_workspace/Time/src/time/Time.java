@@ -24,7 +24,9 @@ public class Time
 	public static void main(String[] args) 
 	{
 		
-		int totalSeconds = getTotalSeconds("10:10:10");
+		int totalSeconds = getTotalSeconds("Github 10:10:10");
+		
+		// code changed
 		System.out.println("Total Seconds: " + totalSeconds);
 	}
 
